@@ -13,7 +13,7 @@ export default class Product extends Component {
                         <Col md={6} className="center">
                             <img className="product-img" src={product}/>
                         </Col>
-                        <Col md={6} className="pt-5 mt-5">
+                        <Col md={6} className="pt-md-5 mt-5 mobile-center">
                             <h2>Workout Band Set</h2>
                             <h3>$20</h3>
                             <p>These highly durable workout bands are made from woven polyester. Each set

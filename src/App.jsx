@@ -9,6 +9,7 @@ import './css/mobile.css';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import Test from './components/MaterialAnimation';
 
 // Components
 import Nav from './components/Nav'

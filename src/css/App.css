@@ -1,3 +1,4 @@
+html,
 body {
     background: #FFEDDB;
     overflow-x: hidden;
@@ -68,7 +69,7 @@ p {
 }
 
 .desktop {
-    display: block;
+    display: flex;
 }
 
 .mobile {
@@ -122,10 +123,6 @@ p {
     padding-right: 0 !important;
 }
 
-.shift-left {
-    padding-left: 00px;
-}
-
 
 /* PRODUCT */
 
@@ -152,6 +149,31 @@ p {
 
 /* MATERIALS */
 
-.material-img {
-    width: 55%;
+.material-text {
+    opacity: 0;
 }
+
+.material-img {
+    width: 90%;
+    position: absolute;
+    left: calc(50% - 240px);
+    top: 0;
+}
+
+.order1 {
+    z-index: 100;
+}
+
+.order2 {
+    z-index: 90;
+}
+
+.order3 {
+    z-index: 80;
+}
+
+.animation-container {
+    position: relative;
+}
+
+.section {}
