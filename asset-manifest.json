@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fitqi/static/css/main.c0c2bc55.chunk.css",
-    "main.js": "/fitqi/static/js/main.a41cdd4e.chunk.js",
-    "main.js.map": "/fitqi/static/js/main.a41cdd4e.chunk.js.map",
-    "runtime-main.js": "/fitqi/static/js/runtime-main.36d4e016.js",
-    "runtime-main.js.map": "/fitqi/static/js/runtime-main.36d4e016.js.map",
+    "main.css": "/fitqi/static/css/main.afee94ef.chunk.css",
+    "main.js": "/fitqi/static/js/main.6d637652.chunk.js",
+    "main.js.map": "/fitqi/static/js/main.6d637652.chunk.js.map",
+    "runtime-main.js": "/fitqi/static/js/runtime-main.f197d549.js",
+    "runtime-main.js.map": "/fitqi/static/js/runtime-main.f197d549.js.map",
     "static/css/2.150d169a.chunk.css": "/fitqi/static/css/2.150d169a.chunk.css",
-    "static/js/2.7597992f.chunk.js": "/fitqi/static/js/2.7597992f.chunk.js",
-    "static/js/2.7597992f.chunk.js.map": "/fitqi/static/js/2.7597992f.chunk.js.map",
-    "static/js/3.b4caae2c.chunk.js": "/fitqi/static/js/3.b4caae2c.chunk.js",
-    "static/js/3.b4caae2c.chunk.js.map": "/fitqi/static/js/3.b4caae2c.chunk.js.map",
+    "static/js/2.61d21405.chunk.js": "/fitqi/static/js/2.61d21405.chunk.js",
+    "static/js/2.61d21405.chunk.js.map": "/fitqi/static/js/2.61d21405.chunk.js.map",
+    "static/js/3.05873c46.chunk.js": "/fitqi/static/js/3.05873c46.chunk.js",
+    "static/js/3.05873c46.chunk.js.map": "/fitqi/static/js/3.05873c46.chunk.js.map",
     "index.html": "/fitqi/index.html",
     "static/css/2.150d169a.chunk.css.map": "/fitqi/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.c0c2bc55.chunk.css.map": "/fitqi/static/css/main.c0c2bc55.chunk.css.map",
-    "static/js/2.7597992f.chunk.js.LICENSE.txt": "/fitqi/static/js/2.7597992f.chunk.js.LICENSE.txt",
+    "static/css/main.afee94ef.chunk.css.map": "/fitqi/static/css/main.afee94ef.chunk.css.map",
+    "static/js/2.61d21405.chunk.js.LICENSE.txt": "/fitqi/static/js/2.61d21405.chunk.js.LICENSE.txt",
     "static/media/bands-1.79361eec.png": "/fitqi/static/media/bands-1.79361eec.png",
     "static/media/bands-1.aa14d5b5.png": "/fitqi/static/media/bands-1.aa14d5b5.png",
     "static/media/bands-product.057c2f08.png": "/fitqi/static/media/bands-product.057c2f08.png",
@@ -27,10 +27,10 @@
     "static/media/peachglutes.966dc6f7.png": "/fitqi/static/media/peachglutes.966dc6f7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.36d4e016.js",
+    "static/js/runtime-main.f197d549.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.7597992f.chunk.js",
-    "static/css/main.c0c2bc55.chunk.css",
-    "static/js/main.a41cdd4e.chunk.js"
+    "static/js/2.61d21405.chunk.js",
+    "static/css/main.afee94ef.chunk.css",
+    "static/js/main.6d637652.chunk.js"
   ]
 }
