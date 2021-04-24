@@ -67,6 +67,14 @@ p {
     padding: 80px 0;
 }
 
+.desktop {
+    display: block;
+}
+
+.mobile {
+    display: none;
+}
+
 
 /* NAV */
 

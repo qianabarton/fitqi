@@ -20,37 +20,73 @@ export default class Material extends Component {
                         </Col>
                         <Col md={3}/>
                     </Row>
-                    <Row>
-                        <Col md={4} className="pt-5">
-                            <MaterialInfo
-                                padding="py-5" 
-                                heading="engineered durability"
-                                text="created with woven polyester and reinforced
+                    <div class="desktop">
+                        <Row>
+                            <Col md={4} className="pt-5">
+                                <MaterialInfo
+                                    padding="py-5"
+                                    heading="engineered durability"
+                                    text="created with woven polyester and reinforced
                                 stitching to allow maximum band strength and stretch capability, they’ll
                                 withstand more squats and donkey kicks than you could ever do in a lifetime"/>
-                            <MaterialInfo 
-                                padding="" 
-                                heading="perfect fit" 
-                                text="measuring a 25-29 inch circumference, these bands
+                                <MaterialInfo
+                                    padding=""
+                                    heading="perfect fit"
+                                    text="measuring a 25-29 inch circumference, these bands
                                 fit comfortably around your ankles, knees and thighs"/>
-                        </Col>
-                        <Col md={4} className="center">
-                            <img className="material-img" src={material}/>
-                        </Col>
-                        <Col md={4}>
-                            <MaterialInfo 
-                                padding="pb-5" 
-                                heading="ideal resistance" 
-                                text="each band provides the perfect amount of resistance
+                            </Col>
+                            <Col md={4} className="center">
+                                <img className="material-img" src={material}/>
+                            </Col>
+                            <Col md={4}>
+                                <MaterialInfo
+                                    padding="pb-5"
+                                    heading="ideal resistance"
+                                    text="each band provides the perfect amount of resistance
                                     for training your legs and glutes. The green band is 60 lbs and the pink band is
                                     90 lbs."/>
-                            <MaterialInfo
-                                padding=""
-                                heading="portability"
-                                text="workout wherever you please. Use them at home or
+                                <MaterialInfo
+                                    padding=""
+                                    heading="portability"
+                                    text="workout wherever you please. Use them at home or
                                 take them on the go to the gym or the park."/>
-                        </Col>
-                    </Row>
+                            </Col>
+                        </Row>
+                    </div>
+                    <div class="desktop">
+                        <Row>
+                            <Col md={4} className="center">
+                                <img className="material-img" src={material}/>
+                            </Col>
+                            <Col md={4} className="pt-5">
+                                <MaterialInfo
+                                    padding="py-5"
+                                    heading="engineered durability"
+                                    text="created with woven polyester and reinforced
+                                stitching to allow maximum band strength and stretch capability, they’ll
+                                withstand more squats and donkey kicks than you could ever do in a lifetime"/>
+                                <MaterialInfo
+                                    padding=""
+                                    heading="perfect fit"
+                                    text="measuring a 25-29 inch circumference, these bands
+                                fit comfortably around your ankles, knees and thighs"/>
+                            </Col>
+
+                            <Col md={4}>
+                                <MaterialInfo
+                                    padding="pb-5"
+                                    heading="ideal resistance"
+                                    text="each band provides the perfect amount of resistance
+                                    for training your legs and glutes. The green band is 60 lbs and the pink band is
+                                    90 lbs."/>
+                                <MaterialInfo
+                                    padding=""
+                                    heading="portability"
+                                    text="workout wherever you please. Use them at home or
+                                take them on the go to the gym or the park."/>
+                            </Col>
+                        </Row>
+                    </div>
                 </Container>
             </div>
         );
