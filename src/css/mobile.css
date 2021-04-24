@@ -2,20 +2,21 @@
     body {
         background: #FFEDDB;
         overflow-x: hidden;
+    }
+    .home {
+        overflow-x: hidden;
         width: 100%;
-    }
-    .container {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-    }
-    .row {
-        padding: 0 15px !important;
+        height: 100vh;
+        margin: 0 auto;
     }
     .desktop {
         display: none;
     }
+    .desktop-i {
+        display: none;
+    }
     .mobile {
-        display: block;
+        display: inline;
     }
     .px-xs {
         padding: 0 40px;
@@ -25,7 +26,7 @@
     }
     h1 {
         /* Header Text */
-        font-size: 80px;
+        font-size: 70px;
         padding-bottom: 15px;
     }
     h2 {
@@ -39,17 +40,23 @@
     }
     h4 {
         /* Header Subtitle */
-        font-size: 18px;
+        font-size: 16px;
+    }
+    .p-small {
+        font-size: 12px;
+        line-height: 20px;
     }
     .mobile-center {
         text-align: center !important;
         justify-content: center !important;
     }
     .box-spacer {
-        padding: 50px 0;
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
     }
     .box-spacer-2 {
-        padding: 50px 15px !important;
+        padding-top: 50px !important;
+        padding-bottom: 20px !important;
     }
     .section {
         height: 80vh;
@@ -60,13 +67,13 @@
     }
     .bands-bg {
         position: relative;
-        height: 120px;
+        height: 50px;
     }
     .bands-header {
         position: absolute;
         top: -80px;
         right: -50px;
-        width: 60%;
+        width: 50%;
     }
     .peach {
         width: 120px;
@@ -80,11 +87,18 @@
         width: 100%;
         height: 250px;
     }
-    .video {
-        width: 100%;
-        height: 100%;
+    /* MATERIAL */
+    .animation-container {
+        height: 140px;
+    }
+    .material-text {
+        height: 230px;
+    }
+    .material-img {
         position: absolute;
-        top: 0;
         left: 0;
+        right: 0;
+        margin: auto;
+        top: 80px;
     }
 }

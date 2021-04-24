@@ -7,7 +7,7 @@ import material1 from '../img/material-1.png';
 import material2 from '../img/material-2.png';
 import material3 from '../img/material-3.png';
 
-var duration = 400;
+var duration = 600;
 
 export default class MaterialAnimation extends Component {
     render() {
