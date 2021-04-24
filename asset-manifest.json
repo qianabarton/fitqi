@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fitqi/static/css/main.830e349e.chunk.css",
-    "main.js": "/fitqi/static/js/main.81227230.chunk.js",
-    "main.js.map": "/fitqi/static/js/main.81227230.chunk.js.map",
+    "main.js": "/fitqi/static/js/main.e290fdaa.chunk.js",
+    "main.js.map": "/fitqi/static/js/main.e290fdaa.chunk.js.map",
     "runtime-main.js": "/fitqi/static/js/runtime-main.f197d549.js",
     "runtime-main.js.map": "/fitqi/static/js/runtime-main.f197d549.js.map",
     "static/css/2.150d169a.chunk.css": "/fitqi/static/css/2.150d169a.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.61d21405.chunk.js",
     "static/css/main.830e349e.chunk.css",
-    "static/js/main.81227230.chunk.js"
+    "static/js/main.e290fdaa.chunk.js"
   ]
 }
