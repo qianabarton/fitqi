@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fitqi/static/css/main.5387e3d5.chunk.css",
+    "main.css": "/fitqi/static/css/main.830e349e.chunk.css",
     "main.js": "/fitqi/static/js/main.81227230.chunk.js",
     "main.js.map": "/fitqi/static/js/main.81227230.chunk.js.map",
     "runtime-main.js": "/fitqi/static/js/runtime-main.f197d549.js",
@@ -12,7 +12,7 @@
     "static/js/3.05873c46.chunk.js.map": "/fitqi/static/js/3.05873c46.chunk.js.map",
     "index.html": "/fitqi/index.html",
     "static/css/2.150d169a.chunk.css.map": "/fitqi/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.5387e3d5.chunk.css.map": "/fitqi/static/css/main.5387e3d5.chunk.css.map",
+    "static/css/main.830e349e.chunk.css.map": "/fitqi/static/css/main.830e349e.chunk.css.map",
     "static/js/2.61d21405.chunk.js.LICENSE.txt": "/fitqi/static/js/2.61d21405.chunk.js.LICENSE.txt",
     "static/media/bands-1.79361eec.png": "/fitqi/static/media/bands-1.79361eec.png",
     "static/media/bands-1.aa14d5b5.png": "/fitqi/static/media/bands-1.aa14d5b5.png",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.f197d549.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.61d21405.chunk.js",
-    "static/css/main.5387e3d5.chunk.css",
+    "static/css/main.830e349e.chunk.css",
     "static/js/main.81227230.chunk.js"
   ]
 }
