@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fitqi/static/css/main.5140dedd.chunk.css",
+    "main.js": "/fitqi/static/js/main.ebdd403d.chunk.js",
+    "main.js.map": "/fitqi/static/js/main.ebdd403d.chunk.js.map",
+    "runtime-main.js": "/fitqi/static/js/runtime-main.e28a08b2.js",
+    "runtime-main.js.map": "/fitqi/static/js/runtime-main.e28a08b2.js.map",
+    "static/css/2.150d169a.chunk.css": "/fitqi/static/css/2.150d169a.chunk.css",
+    "static/js/2.47972453.chunk.js": "/fitqi/static/js/2.47972453.chunk.js",
+    "static/js/2.47972453.chunk.js.map": "/fitqi/static/js/2.47972453.chunk.js.map",
+    "static/js/3.10ebce27.chunk.js": "/fitqi/static/js/3.10ebce27.chunk.js",
+    "static/js/3.10ebce27.chunk.js.map": "/fitqi/static/js/3.10ebce27.chunk.js.map",
+    "index.html": "/fitqi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/fitqi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5140dedd.chunk.css.map": "/fitqi/static/css/main.5140dedd.chunk.css.map",
+    "static/js/2.47972453.chunk.js.LICENSE.txt": "/fitqi/static/js/2.47972453.chunk.js.LICENSE.txt",
+    "static/media/bands-1.aa14d5b5.png": "/fitqi/static/media/bands-1.aa14d5b5.png",
+    "static/media/bands-product.fc2626e0.png": "/fitqi/static/media/bands-product.fc2626e0.png",
+    "static/media/fitqi-logo-dark.55ae7c08.png": "/fitqi/static/media/fitqi-logo-dark.55ae7c08.png",
+    "static/media/fitqi-video.9243a237.MOV": "/fitqi/static/media/fitqi-video.9243a237.MOV",
+    "static/media/material.d61c1885.png": "/fitqi/static/media/material.d61c1885.png",
+    "static/media/App.css": "/fitqi/static/media/ovals.94f6e956.png",
+    "static/media/peachglutes.966dc6f7.png": "/fitqi/static/media/peachglutes.966dc6f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e28a08b2.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.47972453.chunk.js",
+    "static/css/main.5140dedd.chunk.css",
+    "static/js/main.ebdd403d.chunk.js"
+  ]
+}
