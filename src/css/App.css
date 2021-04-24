@@ -1,0 +1,149 @@
+body {
+    background: #FFEDDB;
+    overflow-x: hidden;
+}
+
+h1 {
+    /* Header Text */
+    font-family: 'Pacifico', sans-serif;
+    font-size: 90px;
+    color: #B2B3E8;
+    padding-bottom: 35px;
+}
+
+h2 {
+    /* Product Title */
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #383838;
+}
+
+h3 {
+    /* Price */
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #383838;
+    padding: 10px 0;
+}
+
+h4 {
+    /* Header Subtitle */
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #324949;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #383838;
+}
+
+.p-small {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.center {
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+.vert-center {
+    align-items: center;
+}
+
+.box-spacer {
+    padding: 150px 0;
+}
+
+.box-spacer-2 {
+    padding: 80px 0;
+}
+
+
+/* NAV */
+
+.nav-link {
+    /* Header Subtitle */
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #324949;
+    text-transform: uppercase;
+    margin: 0 15px;
+}
+
+
+/* HERO */
+
+.ovals {
+    background: url("../img/ovals.png") no-repeat;
+    background-size: 100%;
+}
+
+.peach {
+    width: 140px;
+    margin-bottom: -15px;
+}
+
+.btn-primary {
+    background: #8FC2C2;
+    border: none;
+    padding: 10px 60px;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.bands-header {
+    width: 90%;
+}
+
+.no-margin {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+.shift-left {
+    padding-left: 00px;
+}
+
+
+/* PRODUCT */
+
+.product-img {
+    width: 65%;
+}
+
+
+/* VIDEO */
+
+.video-container {
+    height: 500px;
+    position: relative;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+/* MATERIALS */
+
+.material-img {
+    width: 55%;
+}
