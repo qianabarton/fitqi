@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Container, Navbar, Nav, NavDropdown} from "react-bootstrap";
 import {Link} from "react-router-dom";
 
-import logo from '../img/fitqi-logo-dark.png';
+import logo from '../img/logo.png';
 
 export default class MyNav extends Component {
     render() {

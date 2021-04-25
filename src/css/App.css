@@ -152,6 +152,10 @@ p {
 
 /* MATERIALS */
 
+.material-section {
+    position: relative;
+}
+
 .material-text {
     opacity: 0;
 }
@@ -179,4 +183,6 @@ p {
     position: relative;
 }
 
-.section {}
+.test-section {
+    height: 600px;
+}

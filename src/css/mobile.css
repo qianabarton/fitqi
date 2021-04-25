@@ -63,7 +63,8 @@
     }
     /* HERO */
     .ovals {
-        background: url("../img/ovals.png") no-repeat;
+        background: url("../img/ovals-mobile.png") no-repeat;
+        background-size: cover;
     }
     .bands-bg {
         position: relative;
@@ -88,6 +89,9 @@
         height: 250px;
     }
     /* MATERIAL */
+    .material-section {
+        height: 140vh;
+    }
     .animation-container {
         height: 140px;
     }

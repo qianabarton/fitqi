@@ -34,7 +34,7 @@ export default class Home extends Component {
                     />
                 </div>
                 <Material/>
-                <div className="section"></div>
+                <div className="test-section"/>
             </div>
             </section>
         );

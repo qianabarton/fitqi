@@ -16,7 +16,7 @@ var m_duration = 400;
 export default class Material extends Component {
     render() {
         return (
-            <div>
+            <div className="material-section">
                 <Container>
                     <Row className="box-spacer-2 center">
                         <Col md={3}/>
@@ -114,7 +114,7 @@ const MaterialInfo = props => (
 class MobileMaterial extends Component {
     render() {
         return (
-            <div className="mobile-center">
+            <div className="mobile-center mobile">
                 <div id="mobile-trigger"></div>
                 <div id="mobile-opacity-trigger"></div>
                 <div className="animation-container">
